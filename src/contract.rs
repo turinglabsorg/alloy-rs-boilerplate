@@ -1,4 +1,3 @@
-#![allow(unused_imports)]
 use alloy::{
     network::{EthereumWallet, TransactionBuilder},
     primitives::{address, U256},
